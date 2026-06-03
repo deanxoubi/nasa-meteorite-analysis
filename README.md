@@ -142,8 +142,6 @@ Make sure the dataset file, `meteorlandingscsv.csv`, is in the same folder as th
 - Data visualization
 - Python programming with pandas
 
-## Authors
+## Author
 
 - Dean Xoubi
-- Omar Shatat
-- Ali Tolba
