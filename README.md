@@ -144,4 +144,6 @@ Make sure the dataset file, `meteorlandingscsv.csv`, is in the same folder as th
 
 ## Author
 
-- Dean Xoubi
+Dean Xoubi
+University of Illinois Urbana-Champaign
+Gies College of Business
